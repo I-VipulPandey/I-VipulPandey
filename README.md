@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vipul Pandey</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **React js**
-
-- 👨‍💻 All of my projects are available at [https://i-vipulpandey.github.io/vipul-portfolio/](https://i-vipulpandey.github.io/vipul-portfolio/)
+- 🌱 I’m currently learning **Web3 and Blcokchain**
 
 - 📫 How to reach me **vipulpandey7860@gmail.com**
 
