@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain**
 
-- 👨‍💻 All of my projects are available at [vipulpandey.me](vipulpandey.me)
+- 👨‍💻 All of my projects are available at [vipulpandey.me](https://vipulpandey.me)
 
 - 💬 Ask me about **Javascript**
 
